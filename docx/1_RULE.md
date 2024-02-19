@@ -1,6 +1,6 @@
 # RULE CẢNH BÁO ALERT MANAGER.
 
-### LƯU Ý: ĐẶT 30% ĐỂ DỄ LẤY CẢNH BÁO CHO NHANH:)))
+### LƯU Ý: ĐẶT 30% ĐỂ TEST DỄ LẤY CẢNH BÁO CHO NHANH:)))
 
 ```
 groups:

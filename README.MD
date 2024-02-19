@@ -3,9 +3,13 @@
 
 ## I. SET UP DỰ ÁN. 
 
-tham khảo: 
+tham khảo:
+```
+             - SERVER MONITOR: https://github.com/DoQuan2001/dockprom
 
+             - SERVER CẦN MONITOR: https://github.com/DoQuan2001/dockprom-exporter
 
+```
 KHI build server nào nhớ đổi chỗ này thành IP của server đó
 
 
