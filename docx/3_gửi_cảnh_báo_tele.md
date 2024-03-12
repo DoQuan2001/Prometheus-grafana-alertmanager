@@ -31,6 +31,9 @@ ID của group là cái này nè.
 
 ## BƯỚC 4: CHỈNH SỬA FILE CẤU HÌNH CỦA ALERTMANAGER.
 
+
+###  CÁCH 1: CHỈNH SỬA FILE CONFIG.
+
 ta sẽ chỉnh sửa file config.yaml của alertmanager.
 
 ```
@@ -48,6 +51,13 @@ receivers:
 
 ```
 
+
+### CÁCH 2: CẤU HÌNH TRÊN GIA DIỆN CỦA GRAFANA
+
+
+![hinh ](./images/30.png)
+
+![hinh ](./images/29.png)
 
 
 CẢNH BÁO NHƯ SAU:
