@@ -59,3 +59,9 @@ groups:
 
 ## III. VIẾT RULE TRÊN GIAO DIỆN ALERT MANAGER.
 
+ labels:
+      job: ""
+      device: ""
+      fstype: ""
+      instance: ""
+      DISK: "{{ printf \"%.2f\" $value}} %"
